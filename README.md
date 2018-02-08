@@ -28,11 +28,11 @@ I added monetization by including ads from admob. These functions were written f
 ## Code I wrote from scratch
 Here's a list of the functions that I wrote from scratch:
 
-* `checkShowAd` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L69)
-* `adListener` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L48)
-* `changeBackgroundColor` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L82)
-* `changeItemColor` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L105)
-* `setBgColorTheme` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L126)
-* `checkPerfectHit` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L157)
+* `checkShowAd` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L66)
+* `adListener` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L45)
+* `changeBackgroundColor` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L79)
+* `changeItemColor` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L101)
+* `setBgColorTheme` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L123)
+* `checkPerfectHit` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L153)
 
 Other than these, there were some minor things, like variable state persistence etc that was needed for implementing the above 3 features.
