@@ -1,6 +1,6 @@
 # Smash Dots
 
-This game was created as a project for 'Game Design' course that I took in my final semester of Undergrad. This game is a `collaborative effort`, with code written by me and my group partner.
+This game was created as a project for 'Game Design' course that I took in my final semester of Undergrad. This game is a `collaborative effort`, with code written by me and my group partner. You can find the code in [`main.lua` file](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua)
 
 You can find it on [Google Play Store](https://play.google.com/store/apps/details?id=io.github.thehappybug.smashdots). This is the basic version of the game. Some enhancements were made before it was uploaded to Play Store. Unfortunately, the code for that has been lost.
 
@@ -28,11 +28,11 @@ I added monetization by including ads from admob. These functions were written f
 ## Code I wrote from scratch
 Here's a list of the functions that I wrote from scratch:
 
-* `checkShowAd`
-* `adListener`
-* `changeBackgroundColor`
-* `changeItemColor`
-* `setBgColorTheme`
-* `checkPerfectHit`
+* `checkShowAd` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L69)
+* `adListener` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L48)
+* `changeBackgroundColor` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L82)
+* `changeItemColor` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L105)
+* `setBgColorTheme` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L126)
+* `checkPerfectHit` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L157)
 
 Other than these, there were some minor things, like variable state persistence etc that was needed for implementing the above 3 features.
