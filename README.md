@@ -1,8 +1,8 @@
 # Smash Dots
 
-This game was created as a project for 'Game Design' course that I took in my final semester of Undergrad. This game is a `collaborative effort`, with code written by me and my group partner. You can find the code in [`main.lua` file](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua)
+This game was created as a project for 'Game Design' course that I took in my final semester of Undergrad. This game is a `collaborative effort`, with code written by me and my group partner. You can find the code in *[`main.lua` file](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua)*
 
-You can find it on [Google Play Store](https://play.google.com/store/apps/details?id=io.github.thehappybug.smashdots). This is the basic version of the game. Some enhancements were made before it was uploaded to Play Store. Unfortunately, the code for that has been lost.
+The game was uploaded to [Google Play Store](https://play.google.com/store/apps/details?id=io.github.thehappybug.smashdots). _This is the basic version of the game. Some enhancements were made before it was uploaded to Play Store. Unfortunately, the code for that has been lost._
 
 The game mechanics are simple. Discs/circles appear on the screen from one corner of the screen and complete their animation to another side of the screen. The objective is simple, `Tap all the discs appearing on screen`. If a disc completes its movement from one corner of the screen to another, without being smashed, the game is over.
 
