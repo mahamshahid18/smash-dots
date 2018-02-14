@@ -35,4 +35,5 @@ Here's a list of the functions that I wrote from scratch:
 * `setBgColorTheme` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L123)
 * `checkPerfectHit` [See Code](https://github.com/mahamshahid18/smash-dots/blob/master/main.lua#L153)
 
-Other than these, there were some minor things, like variable state persistence etc that was needed for implementing the above 3 features.
+Other than these, there were some minor things, like variable state persistence etc that was needed for implementing the above 3 features.  
+I also refactored some code and added comments in the whole code.
